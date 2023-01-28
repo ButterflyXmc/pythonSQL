@@ -1,5 +1,7 @@
 # will not get pushed to repository
 # Will stay secure
+# Files added successfully will be grayed out
 .vscode/
+__pycache__/
 venv/
 dbcreds.py
