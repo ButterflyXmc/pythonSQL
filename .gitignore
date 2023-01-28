@@ -1,0 +1,4 @@
+# will not get pushed to repository. Will stay secure
+.vscode/
+venv/
+dbcreds.py
